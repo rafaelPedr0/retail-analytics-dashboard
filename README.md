@@ -1,29 +1,50 @@
 # Retail Analytics Dashboard
 
-Projeto de análise de dados focado em vendas, clientes e indicadores de negócio.
+Interactive retail analytics dashboard built with Power BI, SQL, and Python-based analysis workflows.
 
-## Objetivo
-Transformar dados brutos em informações úteis para análise de receita, ticket médio, produtos mais vendidos e comportamento de clientes.
+## Objective
+
+Build a retail sales analytics dashboard that transforms raw data into business insights about revenue, average ticket, customers, top products, and regional performance, supporting data-driven decision-making with Power BI, SQL, and Python.
+
+## Overview
+
+This project was developed as a portfolio case to demonstrate business intelligence and analytics skills through KPI tracking, sales analysis, and visual storytelling.
+
+## Dashboard Preview
+
+![Dashboard Overview](./assets/dashboard-overview.png)
+
+## DAX Example
+
+![DAX Measure](./assets/dax-measure-average-ticket.png)
+
+## Features
+
+- KPI cards for revenue, customers, orders, and average ticket
+- Sales trend over time
+- Top-selling products
+- Sales by category
+- Sales by region
 
 ## Stack
+
+- Power BI
+- SQL
 - Python
 - Pandas
-- SQL
 - PostgreSQL
 - FastAPI
-- Power BI
+- Git/GitHub
 
-## Estrutura
-- `data/` → dados brutos e tratados
-- `notebooks/` → scripts de análise
-- `sql/` → estrutura do banco e consultas
-- `backend/` → API com FastAPI
-- `dashboard/` → arquivos do dashboard
+## Project Structure
 
-## Roadmap
-- [x] Estrutura inicial
-- [ ] Importação e limpeza dos dados
-- [ ] Análise exploratória
-- [ ] Modelagem SQL
-- [ ] API com FastAPI
-- [ ] Dashboard
+- `assets/` → screenshots used in the README
+- `powerbi/` → Power BI template/report
+- `sql/` → schema and KPI queries
+- `notebooks/` → exploratory analysis scripts
+- `backend/` → supporting files
+
+## Author
+
+Rafael Pedro Lopes de Cabaral de Noronha Feio 
+Computer Science student focused on Data, BI, and Analytics projects.
