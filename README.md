@@ -1,6 +1,6 @@
 # Retail Analytics Dashboard
 
-Interactive retail analytics dashboard built with Power BI, SQL, and Python-based analysis workflows.
+Interactive retail analytics dashboard developed with Power BI, SQL, and Python-based analysis workflows.
 
 ## Objective
 
