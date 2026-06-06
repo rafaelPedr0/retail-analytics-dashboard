@@ -13,7 +13,7 @@ Build a retail sales analytics dashboard that transforms raw data into business 
 ## Overview
 
 
-This project was developed as a portfolio case to demonstrate business intelligence and analytics skills through KPI tracking, sales analysis, and visual storytelling.
+This project was developed as a portfolio case to demonstrate business intelligence and analytics skills through KPI tracking, sales analysis, and visual storytelling
 
 
 ## Dashboard Preview
