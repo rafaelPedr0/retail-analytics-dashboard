@@ -63,5 +63,5 @@ This project was developed as a portfolio case to demonstrate business intellige
 ## Author
 
 
-Rafael Pedro Lopes de Cabaral de Noronha Feio.
+Rafael Pedro Lopes de Cabaral Brandão de Noronha Feio
 Computer Science student focused on Data, BI, and Analytics projects.
